@@ -72,3 +72,25 @@ Group inspected the orphanage and found Mol missing, so they got a boat from Jan
 "In return? Well, you're making a deal with a devil. I'm sure you can try to guess what that could cost."
 
 "Ah, you think you can cure it yourselves? Try your best, I doubt much will come to pass. And I know, eventually, when all your options have been exhausted, you'll come running back to my door. It's only a matter of time... *smiles at them knowingly* Ta-ta! *He waves his hand, and they are transported back to their campsite.*"
+
+
+# Session 3 - The Journey to Roaneyll (swamp episode)
+
+The party wakes, assuming travel
+Roll 3 d20 to see if combat (<10 means combat)
+
+## IF COMBAT
+1 Rotbeast + 3 Zombies in the shrine
+
+The group arrives at the swamp:
+*As you arrive at the swamp, a moist, peaty smell invades your nostrils. Though it is daytime, something seems...off about these lands. The shadows seem darker, and almost seem to move when they are at the edge of your vision. An eerie blue-green glow faintly emanates from the water, and your necks prickle with the power of the shadow curse on you.*
+
+As the group enters the swamp, they find the bodies of two gnomes. They are wearing druidic clothing, clearly familiar to `Scoop`. He recognizes them as inhabitants of his swamp village. 
+
+*The two gnomes' bodies are half-buried in the wet mud. Their clothes show no signs of struggle, and no blood is found on their bodies. Turning them over reveals sunken, soulless eyes, and the veins in their faces are engorged and black. They've clearly succumbed to the shadow curse...*
+
+If the group leaves the bodies behind without burying or burning them, they transform into ghouls and attack.
+
+*As you enter the room, a dark figure stands in the corner. They turn slowly, raising their hands as their hoods falls to reveal a black beak. Combat begins.*
+
+*As the corvid sorcerer lays dying, they croak out "you fools...you've wasted your time, my job is completed. T
