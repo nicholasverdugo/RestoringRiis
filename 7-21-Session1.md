@@ -93,4 +93,4 @@ If the group leaves the bodies behind without burying or burning them, they tran
 
 *As you enter the room, a dark figure stands in the corner. They turn slowly, raising their hands as their hoods falls to reveal a black beak. Combat begins.*
 
-*As the corvid sorcerer lays dying, they croak out "you fools...you've wasted your time, my job is completed. T
+*As the corvid sorcerer lays dying, they croak out "you fools...you've wasted your time, my job is completed. The grove by the creek will fall, and Vecna's influence will become stronger over Riis. Those foolish gnomes who resisted me are rotting away as we speak in the swamp temple...a fitting end for their nature loving kind."
