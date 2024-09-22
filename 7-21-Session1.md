@@ -91,6 +91,38 @@ As the group enters the swamp, they find the bodies of two gnomes. They are wear
 
 If the group leaves the bodies behind without burying or burning them, they transform into ghouls and attack.
 
+# Session 4 - The Corvid Necromancer
+
 *As you enter the room, a dark figure stands in the corner. They turn slowly, raising their hands as their hoods falls to reveal a black beak. Combat begins.*
 
-*As the corvid sorcerer lays dying, they croak out "you fools...you've wasted your time, my job is completed. T
+*As the corvid sorcerer lays dying, they croak out "you fools...you've wasted your time, my job is completed.*
+
+The group arrives at the ruined temple, determined to save Scoop's parents (they don't know his parents are there)
+
+# Session 5 - Dungeon Crawling to save the gnomes
+
+*The group continues to delve into the dungeon, finding more floors and continuing to face resistance*
+
+*They end up finding the gnome couple, Tinker and Qili half-awake, delirious from blood loss. Their clothes are stained with blood and dirt, and the veins on their hands seem darker than they should be.*
+
+The couple can be helped up, helping them walk is allowable. The shadows created by the torches seem to dance more than they should be, and are strangely darker, seemingly trying to 'move' towards the gnome couple.
+
+After moving into the next room, Scoop's mom collapses, and his dad follows suit next.
+
+*The shadows grow longer, darker still, and a blue-green smoky energy seeps from the cracks between the stones underneath them. The smoke flows into the bodies of the gnome couple, and they both begin choking as their bodies succumb to the shadow curse, transforming them into shadow-thralls. Combat begins.*
+
+*The bodies are transformed by the curse, deformed and bloated, but still recognizable. On the female gnome's body is a small pendant necklace. The pendant is carved from wood, a small animal that looks like a deer. Scoop recognizes this as a carving he made as a child when he was growing up with them. The male gnome was carrying a small, simple silver ring, adorned with a carving in elvish. The carving is a short, druidic hymn, praising Silvanus.*
+
+*Upon exiting the dungeon, the air seems to have changed. The floor has a thin layer of fog, tinted with a light blue-green color. It seems as though the shadow curse is getting stronger.*
+
+*Navigating to the druid village finds most of the inhabitants centered on a small tavern-style building, ringed with a thick layer of the shadow-fog, as though there is an invisible barrier holding it at bay. An idol of Silvanus is placed above the door frame, ringed in a soft glow.*
+
+*The tavern is filled with 30 or so villagers, somberly milling about. The bartender has a stern look on his face, but his expression softens when he sees Scoop. He waves him over:*
+
+"Scoop my boy, glad to see you're okay. It's been a long while since you've left, and obviously things have changed a bit. We're considering abandoning the village, thank Silvanus we've survived enough to gather here. He is the only thing keeping that damned curse at bay. It started a few weeks ago, first with the plants, then the animals, the crick, and then...then our people...*sighs* they started to change too. The elders were hit the hardest. Turned into mindless abominations. We...we had to strike them down to protect the others. We're all that's left. Our village...*places his head in his hands*it's been corrupted beyond our control. Those damn necromancers are the cause of this, but for what reason I don't know. It started in Lord Anglemar's manor, but they moved to old Feldmar's fields to the west, out near the coast. *He notices Luffy* You...have we met before? I used to be a sailor, but that was long ago. But I'd recognize that hat anywhere...You're not him, but must know Shanks, then. Smart kid, when I knew him at least."
+
+*If he is told about Scoop's parents, he chokes back tears and his voice gets gravelley:* "Hells. They disappeared a few days ago but we couldn't spare anyone to search for them. We've lost most of our fighters. Those damn necromancers keep taking good people from us. I'm sorry Scoop, I know how much they meant to you. We'll remember them. They are with Silvanus now. For their sake, and ours, please. Please end this curse...for the land, the animals, your people. We need you now."
+
+*To end the curse* "All I know is the arm of Silvanus was taken, and the curse began. I'd wager it must be restored in the temple ruins in order to put this to rest, but those necromancers stole it when they moved to Feldmar's fields."
+
+Session end?
