@@ -131,8 +131,6 @@ After moving into the next room, Scoop's mom collapses, and his dad follows suit
 
 *As the crew fights their way to the well, they begin to hear a rhythmic thumping in their chests...all but Luffy. The thumping is coming from the south side of the village*
 
-*Upon seeing the group, the necromancer flees south, towards the source of the thumping. They seem scared, but not of the group...*
-
 *Once the group finds the house: The thumping grows into a loud, booming sound. It fills your ears, drowning out even your heartbeats. Power surges from the house, growing to incomprehensible levels. You feel a looming sense of dread emanating, and for the first time in your short journey together, the odds that are stacked against you may be too much to overcome...*
 
 *Upon door open: A blast of green energy erupts from the door. You are all knocked back 10ft. **DC 18 CON SAVE TO AVOID PARALYSIS** You see the Corvid necromancer chanting furiously over a pile of dead bodies, one on the top possibly still alive. Most are older folk, all from Scoop's druid village. He turns to see you open the door, and simply smiles. A bright green fire begins to erupt from under the bodies, slowly engulfing them in flames. You should be feeling their heat by now, but all you feel is cold. Dread, cold and uncaring, emanates from the house in place of the heat that is missing from the flames. The necromancer raises their hands, screaming in glee:* 
