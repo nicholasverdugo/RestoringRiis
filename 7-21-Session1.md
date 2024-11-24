@@ -126,3 +126,31 @@ After moving into the next room, Scoop's mom collapses, and his dad follows suit
 *If he is told about Scoop's parents, he chokes back tears and his voice gets gravelley:* "Hells. They disappeared a few days ago but we couldn't spare anyone to search for them. We've lost our fighters. Those damn necromancers keep taking good people from us. I'm sorry Scoop, I know how much they meant to you. We'll remember them. They are with Silvanus now. For their sake, and ours, please. Please end this curse...for the land, the animals, your people. We need you now."
 
 *To end the curse* "All I know is the arm of Silvanus was taken, and the curse began. I'd wager it must be restored in the temple ruins in order to put this to rest, but those necromancers stole it when they moved to Feldmar's fields."
+
+# Session 8 - Find the source of the curse in Feldmar's farm
+
+*As the crew fights their way to the well, they begin to hear a rhythmic thumping in their chests...all but Luffy. The thumping is coming from the south side of the village*
+
+*Upon seeing the group, the necromancer flees south, towards the source of the thumping. They seem scared, but not of the group...*
+
+*Once the group finds the house: The thumping grows into a loud, booming sound. It fills your ears, drowning out even your heartbeats. Power surges from the house, growing to incomprehensible levels. You feel a looming sense of dread emanating, and for the first time in your short journey together, the odds that are stacked against you may be too much to overcome...*
+
+*Upon door open: A blast of green energy erupts from the door. You are all knocked back 10ft. **DC 18 CON SAVE TO AVOID PARALYSIS** You see the Corvid necromancer chanting furiously over a pile of dead bodies, one on the top possibly still alive. Most are older folk, all from Scoop's druid village. He turns to see you open the door, and simply smiles. A bright green fire begins to erupt from under the bodies, slowly engulfing them in flames. You should be feeling their heat by now, but all you feel is cold. Dread, cold and uncaring, emanates from the house in place of the heat that is missing from the flames. The necromancer raises their hands, screaming in glee:* 
+
+"You fools thought you could stop me? Take the staff! End the curse! It is of no matter to me now. This farce, this falsehood, this deception of Vecna's followers by me only needs to be held for a short while longer. In fact...I need just a bit more power. *His eyes light up, as he looks at the group. He seems to smirk, a laugh tinged with insanity escaping his throat* And only one of you isn't under the protection of that damned devil! HA! my failure to curse you all at the island seems to have worked out in my favor! This is clearly a blessing from my dear, late Vecna. His power surges through me! I am his heir! I AM CHOSEN!" 
+
+*With that, the necromancer's hands raise completely, and the green flames begin to swirl. They rapidly flow into his hands, like water from a dam, and his eyes begin to glow even brighter. The flames swell, and the last of them rush into his hands. He turns, setting his sights on Luffy. **DC 12 CON SAVE TO AVOID 2d10 psychic damage** His hands drop, and he begins to stumble towards Luffy, with a manical face, revealing his insanity.*
+
+"With this, my work can truly begin. Thank you, truly, for this gift."
+
+*He raises his hands, clasping them together into a fist in front of his face. The next moment, his body is again engulfed in the green flames, which quickly grow into a massive, cold, firestorm. The flames seem to reach an apex, and then begin to slam down. Luffy is hit with the fire, and gets completely smothered. You hear him begin to scream in agony, as he is the only one who can feel the heat of the fire. You all watch helplessly, as his body begins to melt. The flames rend flesh from bone, and his voice dies out as the breath is taken from his lungs. You see him reach out towards you in a futile attempt to escape, and he falls, his body burning away into the fire. The flames seem to grow larger, brighter, colder, and then they rush back into the necromancer. He turns and looks at you all, walking up to the charred bones of your faithful companion. He chuckles, and then a laugh only loosed by those who have truly been broken erupts from his throat again. He kicks the half-burned straw hat towards the group, walking past you. As he passes each of you, you receive a swift kick to the head, taking 1d4 damage each.*
+
+"Fools, all of you, to think you could fight a man blessed by a lost god. See what it feels like to have someone you care about taken from you? The emptiness? Revel in it. Let it make you stronger. It won't matter, in the end."
+
+*And with that, he leaves, and the village continues to burn. Your failure to apprehend the leader of this cult will have consequences, for all of Riis...*
+
+**SESSION END**
+
+# Session 9 - What now?
+
+*As he leaves, you feel the paralysis slowly begin to wane. The village quiets down, and after a few hours laying in the dirt, the sun begins to rise, and you regain control of your bodies.*
