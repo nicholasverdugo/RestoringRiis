@@ -159,4 +159,24 @@ After moving into the next room, Scoop's mom collapses, and his dad follows suit
 
 # Session 9 - What now?
 
-*As he leaves, you feel the paralysis slowly begin to wane. The village quiets down, and after a few hours laying in the dirt, the sun begins to rise, and you regain control of your bodies.*
+*As the day breaks, you hear soft sounds of chattering in the nearby forest. The staff of Silvanus glows with a soft green light, clearly beginning to push back against the effects of the shadow curse.*
+
+Searching buildings can allow for:
+  the trapped villager to be found (Haywood Jablome), an earnest, young dwarf druid who is a little bit stupid. He means well.
+  plans speaking about an assault on Roaneyll, with a focus on the sewer system being a base of operations
+  a flyer talking about an assasination list of important people in Cambar, with instructions on who to murder:
+    Lord Rathodin, a minor lord whos manor is near Cambar. He imports metal for the forges.
+    Jarr Sjorskann, a dwarf forgemaster who specializes in making armor and weapons.
+    Mayrell Ravenborn, an Aaracokra cop who runs the city police force
+    Dox Carrowyn, a stuck-up noble who controls trade out of the city due to the one river flowing into it running through his land.   
+
+Wolves can be freed, and if so, will leave behind a dog whistle. Engraved on the wooden whistle is a crude carving of the main wolf, and if they blow the whistle, it will summon the wolves for a fight one time. 
+
+Group heads back to swamp town, meeting the villagers in their bar
+The bartender meets them, and assuming they explain what happened, he says he will restore the staff (if they give it to him) and help the people restore the swamp town to what it was before the cultist attack.
+
+The bartender, Dale, gingerly takes the staff, and walks outside to the front of the bar. He climbs a short ladder next to the door, and places it upon the outstretched two hands of the idol of Silvanus. A soft green glow begins to emanate from the idol, and the plant life nearby seems to grow brighter in response. The swampy water under the boardwalk turns a bright blue-green color, and small bugs crawl out from various holes and plants, beginning to search for food. 
+
+"with the staff replaced, we are once again protected from the shadow curse. Other lands may not be as fortunate as us, though. I fear though we are safe, the losses we incurred here may serve as the fuel for a greater blight upon the lands than we are dealing with now...You must go. Find where this madman went, stop him before it is too late. I know it is presumptuous to ask you to do this, considering the loss you've been saddled with already, but you may be the only ones who can save us. The shadows...seem to coalesce around you. I wonder if this is an effect of the growing strength of the one who cursed you. Perhaps you are linked in some way. May Silvanus guide you, in your journey."
+
+He offers the group supplies, and sends them on their way to head to either Cambarr or Roaneyll. They get one night of camp, with a combat in between, depending on d20 roll. +10: 3 angry boars attack. -10: bugs!
