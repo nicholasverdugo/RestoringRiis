@@ -162,13 +162,13 @@ After moving into the next room, Scoop's mom collapses, and his dad follows suit
 *As the day breaks, you hear soft sounds of chattering in the nearby forest. The staff of Silvanus glows with a soft green light, clearly beginning to push back against the effects of the shadow curse.*
 
 Searching buildings can allow for:
-  the trapped villager to be found (Haywood Jablome), an earnest, young dwarf druid who is a little bit stupid. He means well.
-  plans speaking about an assault on Roaneyll, with a focus on the sewer system being a base of operations
-  a flyer talking about an assasination list of important people in Cambar, with instructions on who to murder:
-    Lord Rathodin, a minor lord whos manor is near Cambar. He imports metal for the forges.
-    Jarr Sjorskann, a dwarf forgemaster who specializes in making armor and weapons.
-    Mayrell Ravenborn, an Aaracokra cop who runs the city police force
-    Dox Carrowyn, a stuck-up noble who controls trade out of the city due to the one river flowing into it running through his land.   
+- the trapped villager to be found (Haywood Jablome), an earnest, young dwarf druid who is a little bit stupid. He means well.
+- plans speaking about an assault on Roaneyll, with a focus on the sewer system being a base of operations
+- a flyer talking about an assasination list of important people in Cambar, with instructions on who to murder:
+- Lord Rathodin, a minor lord whos manor is near Cambar. He imports metal for the forges.
+- Jarr Sjorskann, a dwarf forgemaster who specializes in making armor and weapons.
+- Mayrell Ravenborn, an Aaracokra cop who runs the city police force
+- Dox Carrowyn, a stuck-up noble who controls trade out of the city due to the one river flowing into it running through his land.   
 
 Wolves can be freed, and if so, will leave behind a dog whistle. Engraved on the wooden whistle is a crude carving of the main wolf, and if they blow the whistle, it will summon the wolves for a fight one time. 
 
