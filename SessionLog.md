@@ -180,3 +180,5 @@ The bartender, Dale, gingerly takes the staff, and walks outside to the front of
 "with the staff replaced, we are once again protected from the shadow curse. Other lands may not be as fortunate as us, though. I fear though we are safe, the losses we incurred here may serve as the fuel for a greater blight upon the lands than we are dealing with now...You must go. Find where this madman went, stop him before it is too late. I know it is presumptuous to ask you to do this, considering the loss you've been saddled with already, but you may be the only ones who can save us. The shadows...seem to coalesce around you. I wonder if this is an effect of the growing strength of the one who cursed you. Perhaps you are linked in some way. May Silvanus guide you, in your journey."
 
 He offers the group supplies, and sends them on their way to head to either Cambarr or Roaneyll. They get one night of camp, with a combat in between, depending on d20 roll. +10: 3 angry boars attack. -10: bugs!
+
+A boar was transported to Avernus!
