@@ -165,7 +165,7 @@ Searching buildings can allow for:
 - the trapped villager to be found (Haywood Jablome), an earnest, young dwarf druid who is a little bit stupid. He means well.
 - plans speaking about an assault on Roaneyll, with a focus on the sewer system being a base of operations
 - a flyer talking about an assasination list of important people in Cambar, with instructions on who to murder:
-- Lord Rathodin, a minor lord whos manor is near Cambar. He imports metal for the forges.
+- Lord Rathodin, a minor lord whose manor is near Cambar. He imports metal for the forges.
 - Jarr Sjorskann, a dwarf forgemaster who specializes in making armor and weapons.
 - Mayrell Ravenborn, an Aaracokra cop who runs the city police force
 - Dox Carrowyn, a stuck-up noble who controls trade out of the city due to the one river flowing into it running through his land.   
@@ -182,3 +182,27 @@ The bartender, Dale, gingerly takes the staff, and walks outside to the front of
 He offers the group supplies, and sends them on their way to head to either Cambarr or Roaneyll. They get one night of camp, with a combat in between, depending on d20 roll. +10: 3 angry boars attack. -10: bugs!
 
 A boar was transported to Avernus!
+
+# Sesion 10 - Travel to Cambar, arrival at the city!
+
+The group wakes, feeling rested and ready to go. Cambar is one full day's travel away. 
+
+You begin to see cultivated farmlands, and grazing fields for miles. Though the land it occupies is large, the crops look unhealthy. Brown leaves dot the fields, and the sheep being herded in the distance don't seem to be very plump. A nearby farmer waves at the group as they pass by. 
+
+*As you get near to the city, it seems to spread out to fill your full field of view. Houses dot the landscape ahead of you, a large wall looming behind them. Banners line the parapets, and soldiers lazily patrol the wall's length. The sounds of the city slowly grow - haggling, metalworking, the voices of people in the streets. The houses ahead of you seem old - beaten down, slowly decaying, and the city wall behind them doesn't look much better. Roofs are haphazardly patched, refuse is pooling in low spots of the road and along the sides of buildings, and beggars dot the alleyways along the outer edge of the city. This is a place in denial of the reality.*
+
+Guards let them by with little resistance, though they do ask what they're doing in the city. They remind them to keep the peace, and not to get in the way. "Life is hard right now and we don't want it to get any harder."
+
+- Lord Rathodin, a minor lord whose manor is near Cambar. He imports metal for the forges.
+- **DC 8 PERSUASION** They smile slightly at his name, and give his location to the players. They mention he helps fund the police force, so they respect him.
+- West side of the city, in Charmer's Roadway. Next to where the city wall meets the river. 
+- Jarr Sjorskann, a dwarf forgemaster who specializes in making armor and weapons.
+- **DC 10 PERSUASION** They softly shake their heads, giving his location to the players. They mention he's a fool who can't let go of the past.
+- East edge of the city, in the Sjorskann district. Located  next to a strawberry field. 
+- Mayrell Ravenborn, an Aaracokra cop who runs the city police force
+- **DC 6 PERSUASION** They stand up a bit straighter, saying she's the only reason the city hasn't fallen apart entirely. They give her location easily.
+- In the north of the city, in Shambles Riverside. The largest building in the courtyard of the warehouse district.  
+- Dox Carrowyn, a stuck-up noble who controls trade out of the city due to the one river flowing into it running through his land.
+- **DC 6 PERSUASION** They scoff at his name, giving his location. They ask why the group would want to meet with such a stuck-up piece of work, who only seems to care for himself.
+- Northeast of Bankstead. Just follow the river north and cross the bridge, his manor is on the right. 
+
