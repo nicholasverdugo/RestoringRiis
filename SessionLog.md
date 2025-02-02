@@ -194,13 +194,13 @@ You begin to see cultivated farmlands, and grazing fields for miles. Though the 
 Guards let them by with little resistance, though they do ask what they're doing in the city. They remind them to keep the peace, and not to get in the way. "Life is hard right now and we don't want it to get any harder."
 
 - Lord Rathodin, a minor lord whose manor is near Cambar. He imports metal for the forges.
-- **DC 8 PERSUASION** They smile slightly at his name, and give his location to the players. They mention he helps fund the police force, so they respect him.
-- West side of the city, in Charmer's Roadway. Next to where the city wall meets the river. 
+- **DC 8 PERSUASION** They smile slightly at his name. They mention he helps fund the police force, so they respect him.
+- Somewhere in Charmer's Roadway. They think his home is on the river, but he usually likes to get frequent the bars in Shambles Riverside. 
 - Jarr Sjorskann, a dwarf forgemaster who specializes in making armor and weapons.
-- **DC 10 PERSUASION** They softly shake their heads, giving his location to the players. They mention he's a fool who can't let go of the past.
-- East edge of the city, in the Sjorskann district. Located  next to a strawberry field. 
+- **DC 10 PERSUASION** They softly shake their heads, giving his general location to the players. They mention he's a fool who can't let go of the past.
+- East edge of the city, somewhere in the Sjorskann district. They say you'll have to ask around there to find out where he actually is. 
 - Mayrell Ravenborn, an Aaracokra cop who runs the city police force
-- **DC 6 PERSUASION** They stand up a bit straighter, saying she's the only reason the city hasn't fallen apart entirely. They give her location easily.
+- **DC 6 PERSUASION** They stand up a bit straighter, saying she's the only reason the city hasn't fallen apart entirely. They give the location of Tiger Station easily.
 - In the north of the city, in Shambles Riverside. The largest building in the courtyard of the warehouse district.  
 - Dox Carrowyn, a stuck-up noble who controls trade out of the city due to the one river flowing into it running through his land.
 - **DC 6 PERSUASION** They scoff at his name, giving his location. They ask why the group would want to meet with such a stuck-up piece of work, who only seems to care for himself.
