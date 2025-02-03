@@ -206,3 +206,4 @@ Guards let them by with little resistance, though they do ask what they're doing
 - **DC 6 PERSUASION** They scoff at his name, giving his location. They ask why the group would want to meet with such a stuck-up piece of work, who only seems to care for himself.
 - Northeast of Bankstead. Just follow the river north and cross the bridge, his manor is on the right. 
 
+The group *creatively acquires* 2 diamonds worth 300 gp each, angering the shopkeep of The Elegant Butler. They arrive at Tiger Station, and see Mayrell training, her back turned.
