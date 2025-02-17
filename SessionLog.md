@@ -207,3 +207,31 @@ Guards let them by with little resistance, though they do ask what they're doing
 - Northeast of Bankstead. Just follow the river north and cross the bridge, his manor is on the right. 
 
 The group *creatively acquires* 2 diamonds worth 300 gp each, angering the shopkeep of The Elegant Butler. They arrive at Tiger Station, and see Mayrell training, her back turned.
+
+# Session 11 - Mayrell is not who she seems.
+
+Mayrell will turn when prompted, looking at the group. She immediately recognizes Cawdia, being happy about her arrival. "So good to see you! The savior of Baerth! Can't believe you were able to rescue that girl, too."
+ 
+Shows them around, walking through the warehouse and avoiding the floor hole section. Ask the group to follow her around the corner, to a more quiet part of the shipping area.
+She opens her arms, cackling, and says to the group "you really are a lot of fools...Ravenborn has been handled, and soon, the rest of Cambar will fall. Serves her right for putting her headquarters above a tomb. It'll serve just as well for her as it did those before her."
+She laughs again, as a magical air surrounds her, and her form shimmers and fades. In her place stands a tiefling woman with pale skin and completely red eyes. "We'll be keeping an eye on you three..." She casts misty step, disappearing in a puff of mist.
+
+**DC 12 INVESTIGATION** You find a set of planks in the floor that seem to be slightly off-color to the rest, like they were replaced at some point in time. 
+
+**10 DAMAGE TO BREAK THE PLANKS** The planks give way, and a hole appears in the floor. A loud splash is heard from the hole a second later. Peering into the hole reveals darkness, and you hear the faint sound of water plinking off of stone.
+
+The underground lake you landed in smells like mildew and stone. The waves made from your landing ripple outwards towards a shore in front of you, and a cave wall curves around and behind you, arcing upwards to form a circular chamber under the warehouse. 
+
+An inscription lies on the floor, surrounded by murals of dragons and various dragonborn. The murals depict daily life and war between two distinct factions: one lead by a large red dragonborn bearing a crown with a red gem at its center, and another lead by two smaller grey dragonborn. 
+
+*Dany can read the inscription* "Two halves, that are united only when three heads are cut. The only path to revealing the sanctum is to end the visages of the three."
+
+Stone of good luck is found in the minecart
+
+Destroying a statue causes zombies to burst forth, but also opens a door into the sanctum.
+
+Destroying both causes wall trigger to happen, removing the barrier to the third statue. 
+
+Once the third statue is destroyed, the sanctum rotates.
+
+Inside, the group finds the body of Mayrell, eyes burned out, reminiscent of those they found dead from the shadow curse in the swamplands. She is wearing a magical amulet, shaped like a shield, with a blue gem in the center. *Warden's Amulet*
